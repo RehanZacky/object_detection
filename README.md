@@ -73,4 +73,4 @@ for file_name in uploaded.keys():
 
 # Output
 
-![download (1)](https://github.com/user-attachments/assets/9015e808-034d-4aa1-b9fd-d6343f971b78)
+![download (2)](https://github.com/user-attachments/assets/a354849c-d0b1-4574-822b-bcb5503eb2b8)
