@@ -73,6 +73,4 @@ for file_name in uploaded.keys():
 
 # Output
 
-```
 ![download (1)](https://github.com/user-attachments/assets/9015e808-034d-4aa1-b9fd-d6343f971b78)
-```
